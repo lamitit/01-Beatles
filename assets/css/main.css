@@ -96,7 +96,43 @@ textarea {
     justify-content: space-between;
   }
 
-header
+/* header */
+.nav-color{
+  background-color: #0872B9;
+}
+.nav-content{
+  max-width: 1020px;
+  margin: 0 auto;
+}
+.nav-container{
+  width: 940px;
+  margin: 0 auto;
+}
+.header-title div{
+  color: white;
+}
+.header-menue{
+  margin-top: 35px;
+}
+.header-menue-right li a{
+  text-decoration: none;
+  color: black;
+  margin-left: 15px;
+ }
+ .header-menue-right ul li{
+  list-style: none;
+}
+.header-menue-right ul li:hover a{
+  color: #0872B9;
+}
+.title-right {
+  width: 150px;
+}
+.title-right:hover{
+    color: #000;
+}
+/* Header banner */
+
 
 /* ==========================================================================
    Helper classes
