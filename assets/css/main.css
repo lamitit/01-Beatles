@@ -86,9 +86,17 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   body{
+    font-family: 'Open Sans', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6{
+    font-family: 'Oswald', sans-serif;
+  }
+  .justify-spacebtn{
+    justify-content: space-between;
+  }
 
-
-
+header
 
 /* ==========================================================================
    Helper classes
